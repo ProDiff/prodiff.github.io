@@ -3,5 +3,5 @@ layout: default
 markdown: kramdown
 kramdown:
   toc_levels: 1..2
-title: "SingGAN: Generative Adversarial NetWork For High-Fidelity Singing Voice Generation"
+title: "ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech"
 
