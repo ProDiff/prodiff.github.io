@@ -60,6 +60,7 @@ Audio samples are available at <a href="https://prodiff.github.io/"><i>https://p
     </tbody>
     <tbody>
         <tr>
+        <th>Generator-Based</th>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-128/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-64/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
