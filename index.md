@@ -340,6 +340,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
+            <th style="text-align: center">w/o GP</th>
+            <th style="text-align: center">w/o KD</th>
             <th style="text-align: center">Teacher(T=16)</th>
             <th style="text-align: center">Teacher(T=8)</th>
             <th style="text-align: center">ProDiff</th>
@@ -348,6 +350,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<tbody>
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Score-2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-16/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-8/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
@@ -360,6 +364,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
+            <th style="text-align: center">w/o GP</th>
+            <th style="text-align: center">w/o KD</th>
             <th style="text-align: center">Teacher(T=16)</th>
             <th style="text-align: center">Teacher(T=8)</th>
             <th style="text-align: center">ProDiff</th>
@@ -368,6 +374,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<tbody>
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/GT/[000004][LJ001-0111][G].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Score-2/[000004][LJ001-0111][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-2/[000004][LJ001-0111][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-16/[000004][LJ001-0111][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-8/[000004][LJ001-0111][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-2/[000004][LJ001-0111][P].wav" type="audio/wav"></audio></td>
@@ -380,6 +388,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
+            <th style="text-align: center">w/o GP</th>
+            <th style="text-align: center">w/o KD</th>
             <th style="text-align: center">Teacher(T=16)</th>
             <th style="text-align: center">Teacher(T=8)</th>
             <th style="text-align: center">ProDiff</th>
@@ -388,6 +398,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<tbody>
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/GT/[000005][LJ001-0173][G].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Score-2/[000005][LJ001-0173][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-2/[000005][LJ001-0173][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-16/[000005][LJ001-0173][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-8/[000005][LJ001-0173][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-2/[000005][LJ001-0173][P].wav" type="audio/wav"></audio></td>
@@ -400,6 +412,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
+            <th style="text-align: center">w/o GP</th>
+            <th style="text-align: center">w/o KD</th>
             <th style="text-align: center">Teacher(T=16)</th>
             <th style="text-align: center">Teacher(T=8)</th>
             <th style="text-align: center">ProDiff</th>
@@ -408,6 +422,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	<tbody>
 		<tr>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/GT/[000006][LJ002-0005][G].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Score-2/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table1/Generator-2/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-16/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-8/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table3/ProDiff-2/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
