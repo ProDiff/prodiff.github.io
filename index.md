@@ -326,7 +326,7 @@ Reference/Target Text: The essential point to be remembered is that the ornament
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/Grad-TTS/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/DiffSpeech/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/ProDiff Teacher/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/ProDiff/[000006][LJ002-0005]][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/ProDiff/[000006][LJ002-0005][P].wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
