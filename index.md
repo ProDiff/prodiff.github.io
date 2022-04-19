@@ -334,7 +334,7 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 
 ### LibriTTS
 
-<ruby>Reference/Target Text: villeforts conduct , therefore , upon reflection , appeared to the baroness as if shaped for their mutual advantage .</ruby>
+Reference/Target Text: villeforts conduct , therefore , upon reflection , appeared to the baroness as if shaped for their mutual advantage .
 <table>
 	<thead>
 		<tr>
@@ -362,7 +362,7 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 	</tbody>
 </table>
 
-<ruby>Reference/Target Text: she would invoke the past , recall old recollections ; she would supplicate him by the remembrance of guilty , yet happy days .</ruby>
+Reference/Target Text: she would invoke the past , recall old recollections ; she would supplicate him by the remembrance of guilty , yet happy days .
 <table>
 	<thead>
 		<tr>
