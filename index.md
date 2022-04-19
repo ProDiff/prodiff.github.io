@@ -352,8 +352,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GT/000.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Tacotron 2/000.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech 2/000.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GanSpeech/000.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech2/000.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GANSpeech/000.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Glow-TTS/000.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Grad-TTS/000.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/DiffSpeech/000.wav" type="audio/wav"></audio></td>
@@ -380,8 +380,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GT/001.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Tacotron 2/001.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech 2/001.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GanSpeech/001.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech2/001.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GANSpeech/001.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Glow-TTS/001.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Grad-TTS/001.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/DiffSpeech/001.wav" type="audio/wav"></audio></td>
@@ -408,8 +408,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GT/002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Tacotron 2/002.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech 2/002.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GanSpeech/002.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech2/002.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GANSpeech/002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Glow-TTS/002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Grad-TTS/002.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/DiffSpeech/002.wav" type="audio/wav"></audio></td>
@@ -436,8 +436,8 @@ Reference/Target Text: The essential point to be remembered is that the ornament
 		<tr>
 			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GT/003.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Tacotron 2/003.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech 2/003.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GanSpeech/003.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/FastSpeech2/003.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/GANSpeech/003.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Glow-TTS/003.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/Grad-TTS/003.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LibriTTS/DiffSpeech/003.wav" type="audio/wav"></audio></td>
